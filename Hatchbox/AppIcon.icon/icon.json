@@ -39,19 +39,19 @@
           "fill-specializations" : [
             {
               "value" : {
-                "solid" : "extended-gray:0.00000,1.00000"
+                "automatic-gradient" : "extended-gray:0.00000,1.00000"
               }
             },
             {
               "appearance" : "dark",
               "value" : {
-                "solid" : "extended-gray:1.00000,1.00000"
+                "automatic-gradient" : "extended-gray:1.00000,1.00000"
               }
             },
             {
               "appearance" : "tinted",
               "value" : {
-                "solid" : "extended-gray:1.00000,1.00000"
+                "automatic-gradient" : "extended-gray:1.00000,1.00000"
               }
             }
           ],
@@ -62,7 +62,7 @@
           "opacity-specializations" : [
             {
               "appearance" : "tinted",
-              "value" : 1
+              "value" : 0.5
             }
           ],
           "position" : {
@@ -79,7 +79,7 @@
       "opacity-specializations" : [
         {
           "appearance" : "tinted",
-          "value" : 0.5
+          "value" : 1
         }
       ],
       "position" : {
@@ -125,19 +125,19 @@
           "fill-specializations" : [
             {
               "value" : {
-                "solid" : "extended-gray:0.00000,1.00000"
+                "automatic-gradient" : "extended-gray:0.00000,1.00000"
               }
             },
             {
               "appearance" : "dark",
               "value" : {
-                "solid" : "extended-gray:1.00000,1.00000"
+                "automatic-gradient" : "extended-gray:1.00000,1.00000"
               }
             },
             {
               "appearance" : "tinted",
               "value" : {
-                "solid" : "extended-gray:1.00000,1.00000"
+                "automatic-gradient" : "extended-gray:1.00000,1.00000"
               }
             }
           ],
@@ -148,7 +148,7 @@
           "opacity-specializations" : [
             {
               "appearance" : "tinted",
-              "value" : 1
+              "value" : 0.5
             }
           ],
           "position" : {
@@ -165,7 +165,7 @@
       "opacity-specializations" : [
         {
           "appearance" : "tinted",
-          "value" : 0.5
+          "value" : 1
         }
       ],
       "position" : {
